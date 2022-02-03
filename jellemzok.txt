@@ -2,6 +2,8 @@ Az ananász jellemzői:
 N.G. Gyümölcs
 T.B sárga
 T.P Édes-savanyú Ízű
+T.K szuros héja 
+T.K erősíti az immunrendszert
 S.A.az ananásznak Bromelain enzim e van ami egy emésztő enzim
 P.P. Spongyabob háza
 P.P. Patriknak nem ananászból van a háza
@@ -12,5 +14,4 @@ P.I pizzan rossz
 T.K szúrós héja van
 P.I még mindin rossz a pizzán
 N.R. nem zöldség
-
 sz l az ananász finom
